@@ -1,0 +1,50 @@
+@import url('css/format.css');
+
+/* --------- sua fonte preferida ---------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Satisfy&display=swap');
+
+/* plano de fundo */
+body{
+    /* background: url('img/bg.jpg'); */
+}
+
+/* barra */
+.barra{
+    background: #0439D9;
+}
+
+/* perfil */
+.perfil{
+    background: url('img/perfil.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+/* nome */
+.titulo .nome{
+    font-family: 'Satisfy', cursive;
+    color: #454545;
+}
+
+/* profissao */
+.titulo .profissao{
+    font-family: Roboto;
+    color: #454545; 
+}
+
+/* descrição */
+.titulo .descricao{
+    font-family: Roboto;
+    color: #454545;
+}
+
+/* botão */
+.principal .botao{
+    /* background: #FFFFFF; */
+    box-shadow: 2px 2px 5px #CCCCCC;
+    font-family: Roboto;
+    color: #0439D9;
+    border-color: #0439D9;
+}

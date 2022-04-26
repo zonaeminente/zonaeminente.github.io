@@ -1,0 +1,255 @@
+@media (min-width: 320px) {
+
+    body {
+        min-height: 100vh;
+    }
+
+    .top-bar-1 {
+        width: 100%;
+        height:40px;
+    }
+
+    .top-bar-2 {
+        width: 100%;
+        height: 40%;
+    }
+
+    .perfil {
+        width: 70px;
+        height: 70px;
+        margin-top: 2rem;
+    }
+
+    .titulo h1 {
+        font-size: 1.4rem;
+        margin: .8rem 0 0 0;
+    }
+
+    .titulo hr {
+        width: 2rem;
+        height: .2rem;
+        margin: .7rem 0;
+    }
+
+    .titulo span, .titulo p {
+        font-size: .8rem;
+    }
+
+    .titulo p {
+        line-height: 1.2rem;
+    }
+
+    .principal .botao {
+        width: 100%;
+        height: 45px;
+        border-width: .2rem;
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin: 1rem 0;
+    }
+}
+
+@media (min-width: 360px) {
+
+    body {
+        min-height: 100vh;
+    }
+
+    .top-bar-1 {
+        width: 100%;
+        height:40px;
+    }
+
+    .top-bar-2 {
+        width: 100%;
+        height: 40%;
+    }
+
+    .perfil {
+        width: 100px;
+        height: 100px;
+        margin-top: 2rem;
+    }
+
+    .titulo h1 {
+        font-size: 1.8rem;
+        margin: .5rem 0 0 0;
+    }
+
+    .titulo hr {
+        width: 2rem;
+        height: .2rem;
+        margin: .7rem 0;
+    }
+
+    .titulo span, .titulo p {
+        font-size: 1rem;
+    }
+
+    .titulo p {
+        line-height: 1.5rem;
+    }
+
+    .principal .botao {
+        width: 100%;
+        height: 50px;
+        border-width: .2rem;
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin: 1rem 0;
+    }
+}
+
+@media (min-width: 411px) {
+
+    body {
+        min-height: 100vh;
+    }
+
+    .top-bar-1 {
+        width: 100%;
+        height:40px;
+    }
+
+    .top-bar-2 {
+        width: 100%;
+        height: 40%;
+    }
+
+    .perfil {
+        width: 100px;
+        height: 100px;
+        margin-top: 2rem;
+    }
+
+    .titulo h1 {
+        font-size: 1.8rem;
+        margin: .5rem 0 0 0;
+    }
+
+    .titulo hr {
+        width: 2rem;
+        height: .2rem;
+        margin: .7rem 0;
+    }
+
+    .titulo span, .titulo p {
+        font-size: 1rem;
+    }
+
+    .titulo p {
+        line-height: 1.5rem;
+    }
+
+    .principal .botao {
+        width: 100%;
+        height: 50px;
+        border-width: .2rem;
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin: 1rem 0;
+    }
+}
+
+@media (min-width: 768px) {
+
+    body {
+        min-height: 100vh;
+    }
+
+    .top-bar-1 {
+        width: 100%;
+        height:80px;
+    }
+
+    .top-bar-2 {
+        width: 100%;
+        height: 40%;
+    }
+
+    .perfil {
+        width: 200px;
+        height: 200px;
+        margin-top: 2rem;
+    }
+
+    .titulo h1 {
+        font-size: 3rem;
+        margin: 1rem 0 0 0;
+    }
+
+    .titulo hr {
+        width: 3rem;
+        height: .3rem;
+        margin: 1rem 0 2rem 0;
+    }
+
+    .titulo span, .titulo p {
+        font-size: 2rem;
+    }
+
+    .titulo p {
+        line-height: 2rem;
+    }
+
+    .principal .botao {
+        width: 100%;
+        height: 80px;
+        border-width: .3rem;
+        font-size: 2rem;
+        font-weight: 500;
+        margin: 1rem 0;
+    }
+}
+
+@media (min-width: 1366px) {
+    body {
+        min-height: 100vh;
+        padding: 0 30vw;
+    }
+
+    .top-bar-1 {
+        width: 100%;
+        height: 50px;
+    }
+
+    .top-bar-2 {
+        width: 100%;
+        height: 40%;
+    }
+
+    .perfil {
+        width: 100px;
+        height: 100px;
+        margin-top: 3rem;
+    }
+
+    .titulo h1 {
+        font-size: 2rem;
+        margin: 1rem 0 0 0;
+    }
+
+    .titulo hr {
+        width: 3rem;
+        height: .2rem;
+        margin: 1rem 0;
+    }
+
+    .titulo span, .titulo p {
+        font-size: 1.3rem;
+    }
+
+    .titulo p {
+        line-height: 1.5rem;
+    }
+
+    .principal .botao {
+        width: 100%;
+        height: 50px;
+        border-width: .2rem;
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin: 1rem 0;
+    }
+}
+
